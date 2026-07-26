@@ -61,5 +61,5 @@ The robot continuously measures distances using ultrasonic sensors mounted on th
 
 ## Author
 
-Harish Raja  
+Harish Raja, Varad Kulkarni, Samarth Sawant, Vansh Patiyal and Nikhil George
 ECE Undergraduate, VNIT Nagpur
